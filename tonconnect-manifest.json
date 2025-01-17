@@ -1,0 +1,11 @@
+{
+    "name": "Nyxor Games",
+    "description": "Play and win with Nyxor Games",
+    "url": "https://g.nyxor.online",
+    "icons": ["https://g.nyxor.online/resources/img/coin.png"],
+    "short_name": "Nyxor",
+    "redirect_uris": [
+      "https://g.nyxor.online/pages/main.html"
+    ]
+  }
+  
